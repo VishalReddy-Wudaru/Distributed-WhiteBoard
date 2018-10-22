@@ -37,9 +37,14 @@ Functions in Client class:
 Design:
 
 Java RMI:
- ![](/Images/JavaRMI.jpg)
+
+![](/Images/JavaRMI.jpg)
+
 Interface Implementation:
- 
+
+![](/Images/JavaRMI.jpg)
+
 Design of the application:
 
+![](/Images/JavaRMI.jpg)
 
