@@ -38,13 +38,25 @@ Design:
 
 Java RMI:
 
-![](/Images/JavaRMI.jpg)
+![](/Images/image002.jpg)
 
 Interface Implementation:
 
-![](/Images/JavaRMI.jpg)
+![](/Images/image003.jpg)
 
 Design of the application:
 
-![](/Images/JavaRMI.jpg)
+![](/Images/image004.jpg)
+
+Steps to Run:
+
+![Start Registry](/Images/image005.jpg)
+![Run Server](/Images/image006.jpg)
+![Start Client](/Images/image007.jpg)
+
+Screenshots:
+
+![](/Images/image014.jpg)
+![](/Images/image015.jpg)
+![](/Images/image016.jpg)
 
