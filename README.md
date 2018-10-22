@@ -50,13 +50,13 @@ Design of the application:
 
 Steps to Run:
 
-![Start Registry](/Images/image005.jpg)
-![Run Server](/Images/image006.jpg)
-![Start Client](/Images/image007.jpg)
+![Start Registry](/Images/image005.png)
+![Run Server](/Images/image006.png)
+![Start Client](/Images/image007.png)
 
 Screenshots:
 
-![](/Images/image014.jpg)
-![](/Images/image015.jpg)
-![](/Images/image016.jpg)
+![](/Images/image014.png)
+![](/Images/image015.png)
+![](/Images/image016.png)
 
