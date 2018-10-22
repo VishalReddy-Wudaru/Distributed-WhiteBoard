@@ -37,7 +37,7 @@ Functions in Client class:
 Design:
 
 Java RMI:
- 
+ ![](/Images/JavaRMI.jpg)
 Interface Implementation:
  
 Design of the application:
